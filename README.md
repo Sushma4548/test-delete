@@ -1,2 +1,2 @@
 # test-delete
-look whee this appears
+look where this appears
